@@ -1,5 +1,6 @@
 {
-  "NFTFashionPlatformCore#NFTFashionPlatformCore": "0xE1D17D9991a5395D4A6ba619DBb5A718Cbe81b43",
-  "NFTFashionPlatformCollaboration#NFTFashionPlatformCollaboration": "0xB6822f103b7bF5d7C361cA728C42627511c517D4",
-  "NFTBattle#NFTBattle": "0x14D313eed5C6F90410E0b9dc8fd89D93998f93C9"
+  "NFTFashionPlatformCore#NFTFashionPlatformCore": "0x3799f85BBDddB9a5a1e19c142eC9b94Ea6E27c89",
+  "NFTFashionPlatformCollaboration#NFTFashionPlatformCollaboration": "0x534A767df6b956E6F30640D58217e708194d8F70",
+  "NFTBattle#NFTBattle": "0x0065cA9739B41a1D24C43c98B83D9cfbeD1681C0",
+  "Battle#Battle": "0x93b077f51C2415EF518e544f2F2724C495521d72"
 }
